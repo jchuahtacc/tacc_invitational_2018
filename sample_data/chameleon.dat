@@ -1,0 +1,11 @@
+10
+machine_learning GPU 5 10
+low_power_experiment ARM 10 3
+burst_writes NVME 1 4
+load_balancing VM 10 10
+open_cl FPGA 4 6
+benchmarking Haswell 2 10
+burst_writes NVME 1 6
+low_power_experiment ARM 4 3
+mpi Infiniband 4 4
+demonstration Haswell 2 2
